@@ -1,4 +1,4 @@
-## AmazonProductsScraperAPI
+## Amazon Products Scraper API
 This api is the easiest way to access product details, reviews, offers and search from Amazon database (Returned in a JSON format).
 Read the official doc: https://rapidapi.com/datwayskrt/api/amazon-products-scraper3
 
